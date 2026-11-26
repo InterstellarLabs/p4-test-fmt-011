@@ -81,3 +81,8 @@ exclude the legacy build artifacts (see above).
 snapshots (with upstream `LICENSE` files), kept for reference only; Git and
 GitHub metadata files (`.github`, `.gitignore`, `.travis.yml`) were removed.
 Nothing reads them: the fixtures embed their own file contents.
+
+
+## Test commit
+
+This section contains a sample commit used to verify the conversion process from Perforce to Git. It does not represent any real development history and is included solely for testing purposes.
