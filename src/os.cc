@@ -5,6 +5,8 @@
 //
 // For the license information refer to format.h.
 
+// P4 VS Code integration test edit.
+
 // Disable bogus MSVC warnings.
 #if !defined(_CRT_SECURE_NO_WARNINGS) && defined(_MSC_VER)
 #  define _CRT_SECURE_NO_WARNINGS
